@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahmonjon
 
-<!--
-**ml-engeneer/ml-engeneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python | 📊 Data Science | 🤖 Machine Learning
 
-Here are some ideas to get you started:
+I'm a Data Science and Machine Learning learner focused on building practical skills with Python and understanding the mathematics behind ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* Python
+* NumPy • Pandas
+* Matplotlib • Seaborn
+* SciPy
+* Statistics & Linear Algebra
+* Machine Learning
+
+### 🎯 Goal
+
+> Learn deeply. Build consistently. Become a strong Machine Learning Engineer. 🚀
