@@ -13,9 +13,9 @@
 ```python
 class MLJourney:
     def __init__(self):
-        self.focus = ["Linear Algebra", "Vector Calculus", "Statistical Inference"]
-        self.stack = ["Python", "NumPy", "SciPy", "Pandas", "Scikit-Learn"]
-        self.current_loss = "Minimizing..."
+        self.focus = ["Machine Learning", "Deep Learning", "Model Optimization"]
+        self.stack = ["Python", "NumPy", "Pandas", "Scikit-Learn", "PyTorch"]
+        self.current_loss = "Training..."
 
     def objective(self):
         return "Building robust, math-grounded Machine Learning architectures."
